@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piekahbic.zeepen.com/sitemap.xml
